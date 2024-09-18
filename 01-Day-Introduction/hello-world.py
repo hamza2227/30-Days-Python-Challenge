@@ -1,7 +1,6 @@
 
-# Day 01
 
-print("Hello Words")
+print("Hello World")
 
 print(2 + 3)   # addition(+)
 print(3 - 1)   # subtraction(-)
