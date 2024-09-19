@@ -101,10 +101,11 @@ first_name = "Hamza"
 print(first_name)         # Hamza
 print(list(first_name))   # ['H', 'a', 'm', 'z', 'a']
 
+
 # Getting user input using the input() built-in function
 
-# first_name = input('What is your name: ')
-# age = input('How old are you? ')
+first_name = input('What is your name: ')
+age = input('How old are you? ')
 
 print(first_name)
 print(age)
