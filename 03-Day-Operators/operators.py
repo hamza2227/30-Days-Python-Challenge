@@ -61,6 +61,27 @@ print('a // b = ', floor_division)
 print('a ** b = ', exponential)
 
 
+# Example ...
 
+# Calculating area of a circle
+radius = 10
+area_of_circle = 3.14 * radius ** 2
+print("Area of Circle = ",area_of_circle)
 
+# Calculating area of a rectangle
+length = 10
+width = 20
+area_of_rectangle = length * width
+print("Area of Rectangle = ",area_of_rectangle)
+
+# Calculating a weight of an object
+mass = 75
+gravity = 9.81
+weight = mass * gravity
+print("Weight of Object = ",weight)
+
+# Calculate the density of a liquid
+mass = 75 
+volume = 0.075 
+density = mass / volume 
 
