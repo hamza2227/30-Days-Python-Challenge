@@ -51,4 +51,10 @@
 # print("Slope of line = ",slope)
 
 
+# # Calculate the value of y (y = x^2 + 6x + 9). 
+# # Try to use different x values and figure out at what x value y is going to be 0.
 
+# x = float(input("Enter the value of x = "))
+# y = x*x +  6 * x  + 9
+# # print(f "Y is "{y} "at x = ",x)
+# print('Y is : ' + str(y) + ' at x = ' + str(x))
