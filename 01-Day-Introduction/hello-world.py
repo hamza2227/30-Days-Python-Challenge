@@ -24,4 +24,13 @@
 
 
 
-print("Hamza Altaf")
+print("Hello World")
+
+
+print(10 + 2)      # addition (+)
+print(10 - 2)      # subtraction (-)
+print(10 / 2)      # division (/)
+print(10 * 2)      # multiplication (*)
+print(10 ** 2)     # exponential (**)
+print(10 % 2)      # modules (%)
+print(10 // 3)     # floor division operator (//)
